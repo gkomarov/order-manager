@@ -1,0 +1,29 @@
+﻿body {
+}
+
+.labled {
+    color: grey;
+    font-weight: 600;
+}
+
+.table-nonselectable.table td, .table-nonselectable.table th {
+    cursor: pointer;
+    user-select: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.border-right-none {
+    border-radius: 0.25rem 0 0 0.25rem !important;
+}
+
+.fat-table, .fat-table tr th, .fat-table tr td {
+    border: 1.5px solid black !important;
+}
+
+.big-checkbox {
+    width: 30px;
+    height: 30px;
+}
