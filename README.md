@@ -1,3 +1,7 @@
+```diff
+- It is just a code for familiarisation. You can't run the project.
+```
+
 ## Customers and payment manage portal
 
 A lot of customers order a lot of jobs for letter bot. This portal realised management of invoices, jobs, orders and customers.
